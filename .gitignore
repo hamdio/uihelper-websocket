@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+# Project output files
+.uihelper
+uihelper
+
+# Test files
+test/headend_data_indexation.db
